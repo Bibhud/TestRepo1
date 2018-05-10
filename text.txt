@@ -1,11 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is CE0B-6AFA
-
- Directory of C:\Users\Bibhudatta\Desktop\MyGitProject
-
-05/10/2018  10:46 AM    <DIR>          .
-05/10/2018  10:46 AM    <DIR>          ..
-05/10/2018  10:40 AM    <DIR>          .git
-05/10/2018  10:46 AM                 0 text.txt
-               1 File(s)              0 bytes
-               3 Dir(s)  253,683,744,768 bytes free
+Chage 1
